@@ -1,0 +1,8 @@
+Which products generate the most revenue?
+Which products are most profitable?
+Which regions perform best?
+How are sales changing each month?
+Which customer types spend the most?
+What is the company's overall financial performance?
+
+Challenge: During the data integration process, Python successfully connected to MySQL but returned an empty dataset. I investigated the database structure and discovered that the CSV data had been imported into a different table than the one referenced by my Python query. I corrected the table reference and verified the data flow before proceeding with the financial analysis

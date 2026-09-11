@@ -1,0 +1,16 @@
+Expense_id,Employee,Department,Category,Amount,Expense_Date,City
+1,John,IT,Travel,1200,1/5/2026,Johannesburg
+2,Mary,Finance,Meals,450,1/6/2026,Pretoria
+3,Peter,HR,Travel,800,1/7/2026,Johannesburg
+4,Sarah,IT,Equipment ,2500,1/8/2026,Cape Town
+5,James,Sales,Travel,1500,1/10/2026,Durban
+6,Mary,Finance,Software,900,1/12/2026,Pretoria
+7,John,IT,Training,700,1/15/2026,Johannesburg
+8,Sarah,HR,Meals,350,1/16/2026,Cape Town
+9,James,Sales,Meals,600,1/18/2026,Durban
+10,Peter,HR,Equipment ,1100,1/20/2026,Johannesburg
+11,John,IT,Software,1300,1/22/2026,Johannesburg
+12,Mary,Finance,Training,500,1/25/2026,Pretoria
+13,James,Sales,Equipment ,2200,2/2/2026,Durban
+14,Sarah,HR,Training,950,2/5/2026,Cape Town
+15,John,IT,Meals,300,2/8/2026,Johannesburg
