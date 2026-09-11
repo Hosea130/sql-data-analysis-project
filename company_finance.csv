@@ -1,0 +1,16 @@
+Transaction_ID,Date,Product,Category,Region,Salesperson,Customer_Type,Revenue,Cost,Operating_Expense,Payment_Method
+2001,1/5/2026,Laptop,Electronics,Gauteng,Thabo,Business,18000,11000,1500,Credit Card
+2002,1/8/2026,Office chair,Furniture,Western Cape,Lerato,Individual,4500,2500,500,EFT
+2003,1/12/2026,Monitor,Electronics,Gauteng,Sipho,Business,7500,4200,700,Debit Card
+2004,1/18/2026,Desk,Furniture,KwaZulu-Natal,Nomsa,Business,6000,3500,600,EFT
+2005,1/22/2026,Printer,Electronics,Free State,Kabelo,Individual,5200,3000,400,Credit Card
+2006,2/3/2026,Laptop,Electronics,Gauteng,Thabo,Business,20000,12000,1600,EFT
+2007,2/7/2026,Office chair,Furniture,Limpopo,Lerato,Individual,3800,2100,450,Debit Card
+2008,2/11/2026,Software,Software,Western Cape,Sipho,Business,9500,3000,900,Credit Card
+2009,2/17/2026,Desk,Furniture,Gauteng,Nomsa,Business,6800,3900,650,EFT
+2010,2/24/2026,Monitor,Electronics,KwaZulu-Natal,Kabelo,Individual,7200,4000,700,Debit Card
+2011,3/4/2026,Laptop,Electronics,Gauteng,Thabo,Business,22000,13000,1700,Credit Card
+2012,3/9/2026,Printer,Electronics,Western Cape,Lerato,Individual,4800,2700,400,EFT
+2013,3/15/2026,Software,Software,Gauteng,Sipho,Business,10500,3500,1000,Credit Card
+2014,3/20/2026,Desk,Furniture,Free State,Nomsa,Individual,5500,3200,550,EFT
+2015,3/27/2026,Office chair,Furniture,KwaZulu-Natal,Kabelo,Business,4700,2600,500,Debit Card
